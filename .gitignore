@@ -24,3 +24,12 @@ hs_err_pid*
 replay_pid*
 
 ROADMAP.md
+
+# Build output and local financial data
+/target/
+/data/
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+.env
